@@ -1,0 +1,16 @@
+{
+  "name": "dabin-xm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "author": "dabin",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "browser-sync": "^2.9.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-imagemin": "^2.3.0",
+    "imagemin-pngquant": "^4.2.0",
+    "gulp-uglify": "^1.5.3",
+    "node-bourbon": "^4.2.8"
+  }
+}
